@@ -1,3 +1,6 @@
+import "./SectionCard.css"
+
+
 export default function SectionCard(props) {
   console.log(props);
 

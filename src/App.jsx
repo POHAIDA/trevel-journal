@@ -1,7 +1,7 @@
 
 import data from "./data"
-import Header from "./components/Header"
-import SectionCard from "./components/SectionCard"
+import Header from "./components/Header/Header"
+import SectionCard from "./components/SectionCard/SectionCard"
 
 export default function App(){
     const countryData = data.map((item) => {
